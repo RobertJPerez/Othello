@@ -1,2 +1,2 @@
 # Othello
-The Classic Board Game Othello using C! 
+The Classic Board Game Othello using C++! 
